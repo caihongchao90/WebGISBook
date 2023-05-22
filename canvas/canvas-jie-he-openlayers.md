@@ -1,6 +1,8 @@
 # canvas结合openlayers
 
-&#x20;       在canvas绘制完毕后，用新绘制的图形作为参数传给openlayers的样式，完成标注点的动态更新
+<figure><img src="../.gitbook/assets/openlayers&#x26;canvas.gif" alt=""><figcaption></figcaption></figure>
+
+在canvas绘制完毕后，用新绘制的图形作为参数传给openlayers的样式，完成标注点的动态更新
 
 ```javascript
 // 创建一个Feature

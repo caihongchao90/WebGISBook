@@ -32,6 +32,7 @@
 
 * moveTo(_x,y_) 定义线条开始坐标
 * lineTo(_x,y_) 定义线条结束坐标
+* 绘制线条我们**必须**使用到 "link" 的 stroke() 方法,执行绘制。
 
 ```javascript
 ctx.moveTo(0,0);
