@@ -18,3 +18,4 @@
   * [canvas绘制基础](canvas/canvas-hui-zhi-ji-chu.md)
   * [绘制动态圆⚪](canvas/hui-zhi-dong-tai-yuan.md)
   * [canvas结合openlayers](canvas/canvas-jie-he-openlayers.md)
+* [高德接口调用](gao-de-jie-kou-tiao-yong.md)
