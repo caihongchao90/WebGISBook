@@ -15,7 +15,7 @@
   * [2.5 添加geojson数据](openlayers/2.5-tian-jia-geojson-shu-ju.md)
   * [2.6 地图事件及漫游](openlayers/2.6-di-tu-shi-jian-ji-man-you.md)
   * [2.7 ol添加mapbox影像地图](openlayers/2.7-ol-tian-jia-mapbox-ying-xiang-di-tu.md)
-  * [2.8 ol添加天地图影像](openlayers/2.8-ol-tian-jia-tian-di-tu-ying-xiang.md)
+  * [2.8 添加天地图影像](openlayers/2.8-tian-jia-tian-di-tu-ying-xiang.md)
 * [🚑 canvas](canvas/README.md)
   * [canvas绘制基础](canvas/canvas-hui-zhi-ji-chu.md)
   * [绘制动态圆⚪](canvas/hui-zhi-dong-tai-yuan.md)
