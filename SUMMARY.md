@@ -1,11 +1,11 @@
 # Table of contents
 
 * [🚗 安装](README.md)
-  * [😅 项目初始化](an-zhuang/xiang-mu-chu-shi-hua.md)
+  * [🏸 项目初始化](an-zhuang/xiang-mu-chu-shi-hua.md)
 * [🚌 openlayers](page-1.md)
   * [ol添加mapbox影像地图](openlayers/ol-tian-jia-mapbox-ying-xiang-di-tu.md)
   * [地图事件及漫游](openlayers/di-tu-shi-jian-ji-man-you.md)
-  * [😂 添加geojson数据](openlayers/tian-jia-geojson-shu-ju.md)
+  * [🤿 添加geojson数据](openlayers/tian-jia-geojson-shu-ju.md)
   * [1 基础概念](openlayers/1-ji-chu-gai-nian.md)
   * [2 创建地图](openlayers/2-chuang-jian-di-tu.md)
   * [2 地图控件](openlayers/2-di-tu-kong-jian.md)
